@@ -1,2 +1,4 @@
-# hindi-fluxbb-pkg
-A hindi language pack for FluxBB_by_Visman.
+If you notice any errors in the current translation, please notify me here through issue.  
+
+**Translation Contributors:**  
+- **Hindi** - [druvx13](https://github.com/druvx13)
